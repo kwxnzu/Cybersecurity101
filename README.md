@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Learning Repository
 
-Welcome to my cybersecurity repository — built for mastering **Python**, **C++**, and **Shell scripting** through real-world security and forensics projects.
+Welcome to my cybersecurity repository built for mastering **Python**, **C++**, and **Shell scripting** through real-world security and forensics projects.
 
 > 💡 This repo is part of my long-term goal to build **Secverse**,  focused on offensive security, automation, and cloud AI defense.
 
