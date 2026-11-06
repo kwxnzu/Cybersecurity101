@@ -81,12 +81,4 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-## 👨🏽‍💻 Author
-
-**Alvin Kwanzu**  
-Founder of **Secverse**  
-Kenya 🇰🇪 | Cybersecurity Enthusiast | Offensive Security & Automation Focus 
-
----
-
 📌 *This repo reflects a real journey . Follow along or contribute ideas!*  
