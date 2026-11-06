@@ -1,12 +1,12 @@
-# 🔐 Cybersecurity Learning Repository
+#Cybersecurity Learning Repository
 
 Welcome to my cybersecurity repository built for mastering **Python**, **C++**, and **Shell scripting** through real-world security and forensics projects.
 
-> 💡 This repo is part of my long-term goal to build **Secverse**,  focused on offensive security, automation, and cloud AI defense.
+>This repo is part of my long-term goal to build **Secverse**,  focused on offensive security, automation, and cloud AI defense.
 
 ---
 
-## 📁 Repository Structure
+##Repository Structure
 
 | Folder     | Description                                                                 |
 |------------|-----------------------------------------------------------------------------|
@@ -17,9 +17,9 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-## 🧭 Study & Build Roadmap
+##Study & Build Roadmap
 
-### 🐍 Python 
+###Python 
 -  Learn scripting fundamentals
 -  Automate security tasks (e.g., port scanner, dirbuster, log parser)
 -  Work with `subprocess`, `socket`, `argparse`, `scapy`, `requests`
@@ -27,20 +27,20 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 -  Build phishing simulation scripts
 -  Interact with Shodan, VirusTotal, or Whois APIs
 
-### 🐚 Shell Scripting 
+###Shell Scripting 
 -  Learn Bash fundamentals: variables, loops, conditionals
 -  Automate Linux tasks (e.g., update checks, backups, scanning wrappers)
 -  Log cleanup, syslog analysis, and scheduling with cron
 -  Create an all-in-one setup.sh for pentesting environments
 
-### 💣 C++ 
+###C++ 
 -  Learn C++ syntax, pointers, memory management
 -  Create low-level red team tools (e.g., simple backdoors, keyloggers)
 -  Practice buffer overflows (simulated labs)
 -  Use system libraries like `<unistd.h>`, `<sys/socket.h>`
 -  Build and compile with `Makefile`
 
-### 🧪 Tools & Labs (`tools/`)
+###Tools & Labs (`tools/`)
 -  Step-by-step guides and exercises for:
   - Nmap, Hydra, Nikto, sqlmap
   - Wireshark, TCPDump, Ettercap
@@ -50,7 +50,7 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-## 📦 How to Use This Repo
+##How to Use This Repo
 
 - Browse each folder by language or tool category
 - Scripts include:
@@ -63,7 +63,7 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-## 🧠 Learning Strategy
+##Learning Strategy
 
 ✔ Learn-by-building: Each script solves a real problem  
 ✔ Document-as-you-go: Every folder includes READMEs, usage notes, and references  
@@ -71,7 +71,7 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-## 🔗 Useful Resources 
+##Useful Resources 
 
 - GitHub Copilot usage tips
 - Oracle Cloud automation notes
@@ -81,4 +81,4 @@ Welcome to my cybersecurity repository built for mastering **Python**, **C++**, 
 
 ---
 
-📌 *This repo reflects a real journey . Follow along or contribute ideas!*  
+*This repo reflects a real journey . Follow along or contribute ideas!*  
